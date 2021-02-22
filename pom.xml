@@ -116,7 +116,7 @@
             </plugin>
             <plugin>
                 <artifactId>maven-invoker-plugin</artifactId>
-                <version>1.5</version>
+                <version>3.2.2</version>
                 <configuration>
                     <projectsDirectory>src/it</projectsDirectory>
                     <cloneProjectsTo>${project.build.directory}/it</cloneProjectsTo>
